@@ -15,4 +15,7 @@
 - Instruktionen in eine Liste packen und verstecken
 - Checkbox hinzufügen
 
-# successful changes:
+# changes in html:
+
+- added placeholder to the textfield
+- packed instructions as a list in a detail form
