@@ -19,3 +19,7 @@
 
 - added placeholder to the textfield
 - packed instructions as a list in a detail form
+
+# changes in CSS:
+
+- changed "Add"-button color
