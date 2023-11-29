@@ -23,3 +23,8 @@
 # changes in CSS:
 
 - changed "Add"-button color
+
+# changes in JS:
+
+- add item with enter and prevent page from reloading
+- delete inputfield after submit
