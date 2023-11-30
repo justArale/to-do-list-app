@@ -15,16 +15,10 @@
 - Instruktionen in eine Liste packen und verstecken
 - Checkbox hinzufügen
 
-# changes in html:
+# successful changes:
 
 - added placeholder to the textfield
 - packed instructions as a list in a detail form
-
-# changes in CSS:
-
 - changed "Add"-button color
-
-# changes in JS:
-
 - add item with enter and prevent page from reloading
 - delete inputfield after submit
