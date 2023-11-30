@@ -71,5 +71,25 @@ li > crossOutButton {
 }
 
 .summary {
-  padding: 20px;
+  margin: 20px;
+}
+
+.instructions {
+  padding-left: 20px;
+}
+
+body,
+html {
+  height: 100%;
+  background: linear-gradient(
+    180deg,
+    rgba(12, 4, 145, 1) 0%,
+    rgba(1, 1, 255, 1) 41%,
+    rgba(0, 212, 255, 1) 100%
+  );
+}
+
+body {
+  margin-left: 20px;
+  margin-right: 20px;
 }

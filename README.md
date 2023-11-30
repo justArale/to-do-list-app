@@ -13,7 +13,6 @@
 - Platzhaltertext im Eingabefeld
 - Farbe des "Add"-Buttons ändern
 - Instruktionen in eine Liste packen und verstecken
-- Checkbox hinzufügen
 
 # successful changes:
 
@@ -22,3 +21,5 @@
 - changed "Add"-button color
 - add item with enter and prevent page from reloading
 - delete inputfield after submit
+- background color
+- larger input field
